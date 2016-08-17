@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\SHI-ARCONTEXTCONSIDERED\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\SHI-ARCONTEXTCONSIDERED\obj\Debug\SHI_ARCONTEXTCONSIDERED.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\SHI-ARCONTEXTCONSIDERED\obj\Debug\SHI_ARCONTEXTCONSIDERED.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\SHI-ARCONTEXTCONSIDERED\obj\Debug\SHI-ARCONTEXTCONSIDERED.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\SHI-ARCONTEXTCONSIDERED\bin\Debug\SHI-ARCONTEXTCONSIDERED.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\SHI-ARCONTEXTCONSIDERED\bin\Debug\SHI-ARCONTEXTCONSIDERED.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\SHI-ARCONTEXTCONSIDERED\obj\Debug\SHI-ARCONTEXTCONSIDERED.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\SHI-ARCONTEXTCONSIDERED\obj\Debug\SHI-ARCONTEXTCONSIDERED.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SHI-ARCONTEXTCONSIDERED\SHI-ARCONTEXTCONSIDERED\obj\Debug\SHI-ARCONTEXTCONSIDERED.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SHI-ARCONTEXTCONSIDERED\SHI-ARCONTEXTCONSIDERED\obj\Debug\SHI-ARCONTEXTCONSIDERED.pdb
